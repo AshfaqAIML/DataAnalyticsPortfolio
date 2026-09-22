@@ -64,8 +64,8 @@ To run this project locally on your machine, follow these steps:
 
 **Ishfaq Dar | Data Analyst & Developer**
 
-📧 Email: [dar1.ishfaq36@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dar1.ishfaq36@gmail.com)
-💼 LinkedIn: [ishfaq-ahmad-dar-aaa277240](https://www.linkedin.com/in/ishfaq-dar-aaa277240/)  
+📧 Email: [dar1.ishfaq36@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=dar1.ishfaq36@gmail.com)  
+💼 LinkedIn: [Ishfaq Dar](https://www.linkedin.com/in/ishfaq-dar-aaa277240/)  
 🐙 GitHub: [Dar-Ishfaq-1](https://github.com/Dar-Ishfaq-1)
 
 ---
