@@ -58,15 +58,14 @@ To run this project locally on your machine, follow these steps:
    git clone [https://github.com/Dar-Ishfaq-1/my_portfolio.git](https://github.com/Dar-Ishfaq-1/my_portfolio.git)
 
 
-   ---
+---
+
 ## 👤 Let's Connect
-Ishfaq Dar | Data Analyst & Developer
+
+**Ishfaq Dar | Data Analyst & Developer**
 
 📧 Email: [dar1.ishfaq36@gmail.com](mailto:dar1.ishfaq36@gmail.com)  
 💼 LinkedIn: [ishfaq-ahmad-dar-aaa277240](https://www.linkedin.com/in/ishfaq-ahmad-dar-aaa277240/)  
-<<<<<<< HEAD
 🐙 GitHub: [Dar-Ishfaq-1](https://github.com/Dar-Ishfaq-1)
-=======
-🐙 GitHub: [Dar-Ishfaq-1](https://github.com/Dar-Ishfaq-1)
->>>>>>> e1e8128caca787a52e32fcd4f5c0f18bfe538145
+
 ---
